@@ -60,3 +60,4 @@ openpyxl
 qrcode[pil]
 pillow
 jinja2
+reportlab
